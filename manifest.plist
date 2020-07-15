@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://img</string>
+					<string>https://raw.githubusercontent.com/fangwow/htApp/master/5757.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://fullimage</string>
+					<string>https://raw.githubusercontent.com/fangwow/htApp/master/512512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
